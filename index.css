@@ -1,0 +1,46 @@
+nav ul li {
+ display: inline;
+ background-color: #EEE;
+ border: 2px outset;
+ }
+h1 {
+ font-family: serif;
+ font-size: 36px;
+ font-style: italic;
+ font-weight: bold;
+ }
+#autor {
+ font-family: serif;
+ font-size: 20px;
+ font-style: italic;
+ font-weight: lighter;
+ }
+section {
+ max-width: 950px;
+ min-width: 300px;
+ margin: auto;
+ }
+h2 {
+ font-family: fantasy;
+ font-size: 22px;
+ font-weight: lighter;
+ }
+img {
+ max-width: 30%;
+ min-width: 10%;
+ border: 2px solid grey;
+ float: left;
+ position: relative;
+  }
+p {
+ clear: right
+ }
+p::first-letter {
+ font-size: 3em; font-weight: normal
+ }
+footer {
+ max-width: 950px;
+ min-width: 300px;
+ margin: auto;
+ background-color: #e6e6ff;
+}
