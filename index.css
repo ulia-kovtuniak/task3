@@ -31,12 +31,15 @@ img {
  border: 2px solid grey;
  float: left;
  position: relative;
+ margin-right: 5px;
   }
 p {
- clear: right
+ clear: right;
  }
 p::first-letter {
- font-size: 3em; font-weight: normal
+ font-size: 3em; 
+ font-weight: normal;
+ margin-left: 5px;
  }
 footer {
  max-width: 950px;
